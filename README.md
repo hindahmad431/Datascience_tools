@@ -1,6 +1,6 @@
 # Data_Science_tools
 
-Impotrant References for those Who are intersted in datascience. If you have any other suggestion, please feel free to add them to this repository
+Important references for those Who are intersted in datascience. If you have any other suggestion, please feel free to add them to this repository
 
 ![alt text](https://github.com/hindahmad431/Datascience_tools/blob/master/data-science-768x384.png?raw=true)
 
