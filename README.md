@@ -1,4 +1,4 @@
-# Datascience_tools
+# Data_Science_tools
 
 Impotrant References for those Who are intersted in datascience. If you have any other suggestion, please feel free to add them to this repository
 
